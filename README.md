@@ -7,4 +7,11 @@ Bo
 ooo
 aaaa
 vvv
-vvv
+vvvcv
+
+cvbvcb
+
+cvb
+cvb
+cv
+bvcb
