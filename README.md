@@ -7,13 +7,3 @@ Bo
 ooo
 aaaa
 vvv
-vvvcv
-
-cvbvcb
-
-cvb
-cvb
-cv
-bvcb
-
-Test comit
